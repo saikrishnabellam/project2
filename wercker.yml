@@ -19,7 +19,7 @@
    after-steps:                    
      - slack-notifier:
          url: $SLACK_URL
-         username: saikrishna
+         username: werckerbot
          channel: notifications
  push-2-docker:
    box: nginx:latest
