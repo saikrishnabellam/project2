@@ -1,7 +1,7 @@
 # This references the default nginx container from
 # the Docker Hub: https://registry.hub.docker.com/  
  box: nginx:latest
- 
+  
  build:
    # The steps that will  be executed on  build
    # Steps make up the action in your pipeline
